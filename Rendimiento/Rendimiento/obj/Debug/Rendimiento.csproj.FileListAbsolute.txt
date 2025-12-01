@@ -1,0 +1,10 @@
+C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\bin\Debug\Rendimiento.exe.config
+C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\bin\Debug\Rendimiento.exe
+C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\bin\Debug\Rendimiento.pdb
+C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\obj\Debug\Rendimiento.csproj.AssemblyReference.cache
+C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\obj\Debug\Rendimiento.Form1.resources
+C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\obj\Debug\Rendimiento.Properties.Resources.resources
+C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\obj\Debug\Rendimiento.csproj.GenerateResource.cache
+C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\obj\Debug\Rendimiento.csproj.CoreCompileInputs.cache
+C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\obj\Debug\Rendimiento.exe
+C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\obj\Debug\Rendimiento.pdb
