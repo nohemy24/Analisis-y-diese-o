@@ -46,11 +46,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlertaController.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlertaController.Designer.cs">
+      <DependentUpon>AlertaController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstudianteController.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstudianteController.Designer.cs">
+      <DependentUpon>EstudianteController.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HorarioController.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HorarioController.Designer.cs">
+      <DependentUpon>HorarioController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotasController.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotasController.Designer.cs">
+      <DependentUpon>NotasController.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -60,8 +84,20 @@
     <Compile Include="Rendimiento.Designer.cs">
       <DependentUpon>Rendimiento.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AlertaController.resx">
+      <DependentUpon>AlertaController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstudianteController.resx">
+      <DependentUpon>EstudianteController.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HorarioController.resx">
+      <DependentUpon>HorarioController.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotasController.resx">
+      <DependentUpon>NotasController.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -71,6 +107,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -84,6 +121,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone-de-cloche-et-d-alerte-noir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warning.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning-sign-icon-transparent-background-free-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17360019.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image 3 dic 2025, 05_07_02 a.m..png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-colorido-borroso-vivo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luke-chesser-eICUFSeirc0-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image 3 dic 2025, 05_33_29 a.m..png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

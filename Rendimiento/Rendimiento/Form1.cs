@@ -47,5 +47,29 @@ namespace Rendimiento
         {
            
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            AlertaController frm = new AlertaController();
+            frm.Show();
+        }
+
+        private void btnEstudiante_Click(object sender, EventArgs e)
+        {
+            EstudianteController frm = new EstudianteController();
+            frm.Show();
+        }
+
+        private void btnHorario_Click(object sender, EventArgs e)
+        {
+            HorarioController frm = new HorarioController();
+            frm.Show();
+        }
+
+        private void btnNotas_Click(object sender, EventArgs e)
+        {
+            NotasController frm = new NotasController();
+            frm.Show();
+        }
     }
 }

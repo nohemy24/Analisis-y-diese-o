@@ -8,3 +8,18 @@ C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de I
 C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\obj\Debug\Rendimiento.csproj.CoreCompileInputs.cache
 C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\obj\Debug\Rendimiento.exe
 C:\Users\Aguir\OneDrive\Documentos\Analisis y diseño de Sistemas\Pantallas de Inicio final\Rendimiento\Rendimiento\obj\Debug\Rendimiento.pdb
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\bin\Debug\Rendimiento.exe.config
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\bin\Debug\Rendimiento.exe
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\bin\Debug\Rendimiento.pdb
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.csproj.AssemblyReference.cache
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.exe.config
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.Form1.resources
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.Properties.Resources.resources
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.csproj.GenerateResource.cache
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.exe
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.pdb
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.AlertaController.resources
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.EstudianteController.resources
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.HorarioController.resources
+C:\Users\Equipo\Documents\analisis y diseño\Proyecto\Analisis-y-diese-o\Rendimiento\Rendimiento\obj\Debug\Rendimiento.NotasController.resources
